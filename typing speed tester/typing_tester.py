@@ -91,5 +91,5 @@ class TypingSpeedTester:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = TypingSpeedTester(root
+    app = TypingSpeedTester(root)
     root.mainloop()
